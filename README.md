@@ -29,7 +29,7 @@ SQL, Tableau, Excel
 - Created calculated fields and views for advanced filtering
 
 **Files:**  
-- Tableau Dashboard (see below)
+- Tableau Dashboard
 🔗 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/mostakim.faiyaz/viz/coviddata_17424771319840/Dashboard1?publish=yes)
 
 ---
